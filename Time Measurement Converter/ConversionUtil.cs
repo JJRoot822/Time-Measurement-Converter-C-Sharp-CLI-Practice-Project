@@ -6,75 +6,75 @@ namespace Time_Measurement_Converter
 {
     class ConversionUtil
     {
-        public static double convertMilisecondsToSeconds(double miliseconds) { }
-        public static double convertMilisecondsToMinutes(double miliseconds) { }
-        public static double convertMilisecondsToHour(double miliseconds) { }
-        public static double convertMilisecondsToDay(double miliseconds) { }
-        public static double convertMilisecondsToWeek(double miliseconds) { }
-        public static double convertMilisecondsToMonth(double miliseconds) { }
-        public static double convertMilisecondsToYear(double miliseconds) { }
+        public static double ConvertMilisecondsToSeconds(double miliseconds) { }
+        public static double ConvertMilisecondsToMinutes(double miliseconds) { }
+        public static double ConvertMilisecondsToHour(double miliseconds) { }
+        public static double ConvertMilisecondsToDay(double miliseconds) { }
+        public static double ConvertMilisecondsToWeek(double miliseconds) { }
+        public static double ConvertMilisecondsToMonth(double miliseconds) { }
+        public static double ConvertMilisecondsToYear(double miliseconds) { }
 
 
-        public static double convertSecondsToMiliseconds(double seconds) { }
-        public static double convertSecondsToMinutes(double seconds) { }
-        public static double convertSecondstoHours(double seconds) { }
-        public static double convertSecondsToDays(double seconds) { }
-        public static double convertSecondsToWeeks(double seconds) { }
-        public static double convertSecondsToMonths(double seconds) { }
-        public static double convertSecondsToYears(double seconds) { }
+        public static double ConvertSecondsToMiliseconds(double seconds) { }
+        public static double ConvertSecondsToMinutes(double seconds) { }
+        public static double ConvertSecondstoHours(double seconds) { }
+        public static double ConvertSecondsToDays(double seconds) { }
+        public static double ConvertSecondsToWeeks(double seconds) { }
+        public static double ConvertSecondsToMonths(double seconds) { }
+        public static double ConvertSecondsToYears(double seconds) { }
+        
+
+        public static double ConvertMinutesToMiliseconds(double minutes) { }
+        public static double ConvertMinutesToSeconds(double minutes) { }
+        public static double ConvertMinutesToHours(double minutes) { }
+        public static double ConvertMinutesToDays(double minutes) { }
+        public static double ConvertMinutesToWeeks(double minutes) { }
+        public static double ConvertMinutesToMonths(double minutes) { }
+        public static double ConvertMinutesToYears(double minutes) { }
 
 
-        public static double convertMinutesToMiliseconds(double minutes) { }
-        public static double convertMinutesToSeconds(double minutes) { }
-        public static double convertMinutesToHours(double minutes) { }
-        public static double convertMinutesToDays(double minutes) { }
-        public static double convertMinutesToWeeks(double minutes) { }
-        public static double convertMinutesToMonths(double minutes) { }
-        public static double convertMinutesToYears(double minutes) { }
+        public static double ConvertHoursToMiliseconds(double hours) { }
+        public static double ConvertHoursToSeconds(double hours) { }
+        public static double ConvertHoursToMinutes(double hours) { }
+        public static double ConvertHoursToDays(double hours) { }
+        public static double ConvertHoursToWeeks(double hours) { }
+        public static double ConvertHoursToMonths(double hours) { }
+        public static double ConvertHoursToYears(double hours) { }
 
 
-        public static double convertHoursToMiliseconds(double hours) { }
-        public static double convertHoursToSeconds(double hours) { }
-        public static double convertHoursToMinutes(double hours) { }
-        public static double convertHoursToDays(double hours) { }
-        public static double convertHoursToWeeks(double hours) { }
-        public static double convertHoursToMonths(double hours) { }
-        public static double convertHoursToYears(double hours) { }
+        public static double ConvertDaysToMiliseconds(double days) { }
+        public static double ConvertDaysToSeconds(double days) { }
+        public static double ConvertDaysToMinutes(double days) { }
+        public static double ConvertDaysToHours(double days) { }
+        public static double ConvertDaysToWeeks(double days) { }
+        public static double ConvertDaysToMonths(double days) { }
+        public static double ConvertDaysToYears(double days) { }
 
 
-        public static double convertDaysToMiliseconds(double days) { }
-        public static double convertDaysToSeconds(double days) { }
-        public static double convertDaysToMinutes(double days) { }
-        public static double convertDaysToHours(double days) { }
-        public static double convertDaysToWeeks(double days) { }
-        public static double convertDaysToMonths(double days) { }
-        public static double convertDaysToYears(double days) { }
+        public static double ConvertWeeksToMiliseconds(double weeks) { }
+        public static double ConvertWeeksToSeconds(double weeks) { }
+        public static double ConvertWeeksToMinutes(double weeks) { }
+        public static double ConvertWeeksToHours(double weeks) { }
+        public static double ConvertWeeksToDays(double weeks) { }
+        public static double ConvertWeeksToMonths(double weeks) { }
+        public static double ConvertWeeksToYears(double weeks) { }
+        
+
+        public static double ConvertMonthsToMiliseconds(double months) { }
+        public static double ConvertMonthsToSeconds(double months) { }
+        public static double ConvertMonthsToMinutes(double months) { }
+        public static double ConvertMonthsToHours(double months) { }
+        public static double ConvertMonthsToDays(double months) { }
+        public static double ConvertMonthsToWeeks(double months) { }
+        public static double ConvertMonthsToYears(double months) { }
 
 
-        public static double convertWeeksToMiliseconds(double weeks) { }
-        public static double convertWeeksToSeconds(double weeks) { }
-        public static double convertWeeksToMinutes(double weeks) { }
-        public static double convertWeeksToHours(double weeks) { }
-        public static double convertWeeksToDays(double weeks) { }
-        public static double convertWeeksToMonths(double weeks) { }
-        public static double convertWeeksToYears(double weeks) { }
-
-
-        public static double convertMonthsToMiliseconds(double months) { }
-        public static double convertMonthsToSeconds(double months) { }
-        public static double convertMonthsToMinutes(double months) { }
-        public static double convertMonthsToHours(double months) { }
-        public static double convertMonthsToDays(double months) { }
-        public static double convertMonthsToWeeks(double months) { }
-        public static double convertMonthsToYears(double months) { }
-
-
-        public static double convertYearsToMiliseconds(double years) { }
-        public static double convertYearsToSeconds(double years) { }
-        public static double convertYearsToMinutes(double years) { }
-        public static double convertYearsToHours(double years) { }
-        public static double convertYearsToDays(double years) { }
-        public static double convertYearsToWeeks(double years) { }
-        public static double convertYearsToMonths(double years) { }
+        public static double ConvertYearsToMiliseconds(double years) { }
+        public static double ConvertYearsToSeconds(double years) { }
+        public static double ConvertYearsToMinutes(double years) { }
+        public static double ConvertYearsToHours(double years) { }
+        public static double ConvertYearsToDays(double years) { }
+        public static double ConvertYearsToWeeks(double years) { }
+        public static double ConvertYearsToMonths(double years) { }
     }
 }
